@@ -9,7 +9,7 @@ import mezz.jei.api.runtime.IBookmarkOverlay;
 import mezz.jei.api.runtime.IJeiRuntime;
 import mezz.jei.gui.bookmarks.BookmarkList;
 import mezz.jei.gui.bookmarks.IngredientBookmark;
-import mezz.jei.gui.input.MouseUtil;
+import mezz.jei.common.input.MouseUtil;
 import mezz.jei.gui.overlay.elements.IElement;
 import net.minecraft.world.item.ItemStack;
 import net.minecraftforge.fluids.FluidStack;
